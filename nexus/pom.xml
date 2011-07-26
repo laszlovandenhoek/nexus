@@ -167,8 +167,8 @@
   <!-- Shortcuts for outnumbered deps :) -->
   <properties>
     <maven.indexer.version>4.1.1</maven.indexer.version>
-    <maven.version>3.0.1</maven.version>
-    <aether.version>1.8.1</aether.version>
+    <maven.version>3.0.3</maven.version>
+    <aether.version>1.12</aether.version>
 
     <aspectj.version>1.6.11</aspectj.version>
     <spice-timeline.version>2.0</spice-timeline.version>
@@ -187,7 +187,7 @@
     <plexus-task-scheduler.version>1.4.2</plexus-task-scheduler.version>
     <plexus-digest.version>1.1</plexus-digest.version>
     <plexus-cli.version>1.2</plexus-cli.version>
-    <plexus-interpolation.version>1.6</plexus-interpolation.version>
+    <plexus-interpolation.version>1.14</plexus-interpolation.version>
     <plexus-slf4j-logging.version>1.1</plexus-slf4j-logging.version>
     <plexus-velocity.version>1.1.7</plexus-velocity.version>
     <commons-beanutils.version>1.7.0-SONATYPE</commons-beanutils.version>
@@ -710,7 +710,7 @@
       <dependency>
         <groupId>com.ning</groupId>
         <artifactId>async-http-client</artifactId>
-        <version>1.6.1</version>
+        <version>1.6.4</version>
       </dependency>
 
       <dependency>
